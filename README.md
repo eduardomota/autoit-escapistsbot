@@ -1,4 +1,4 @@
-#AutoIt - The Escapists Bot
+# AutoIt - The Escapists Bot
 ```
 ,---. .         ,--.                       .         ,-.      .  
   |   |         |                    o     |         |  )     |  
@@ -9,7 +9,7 @@
 ```
 The escapists bot written in AutoIt
 
-<h2>Generic Information
+## Generic Information
 
 ```
 Language ..........: AutoIt
